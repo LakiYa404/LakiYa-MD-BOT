@@ -1,5 +1,5 @@
 {
-  "name": "Queen-Elisa",
+  "name": "LakiYa-MD-BOT",
   "version": "1.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -11,14 +11,14 @@
     "termux",
     "whatsapp",
     "2022",
-    "QueenElisa",
+    "LakiYa",
     "base",
     "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "DARKMAKER(mrnima)",
+  "author": "LakiYa(Lakshan)",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -66,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DarkMakerofc/Queen-Elisa-MD.git"
+    "url": "git+https://github.com/LakiYa404/LakiYa-MD-BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/Queen-Elisa-MD/issues"
+    "url": "https://github.com/LakiYa404/LakiYa-MD-BOT/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/Queen-Elisa-MD#readme"
+  "homepage": "https://github.com/LakiYa404/LakiYa-MD-BOT#readme"
 }
