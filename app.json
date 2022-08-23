@@ -1,8 +1,8 @@
 {
-  "name": "💃 Queen-Elisa 💃",
+  "name": "LakiYa-MD-BOT🍒",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "repository": "https://github.com/LakiYa404/LakiYa-MD-BOT",
+  "logo": "https://i.ibb.co/rpxZ1YC/Picsart-22-08-21-19-27-23-002.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
